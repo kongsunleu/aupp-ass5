@@ -1,0 +1,12 @@
+1. Create a repository in the github
+2. Clone the repository at local system.
+3. Upload a text file in github repo.
+adding line 3
+4. Change/add the text in line no 3 in your uploaded github repo file.
+5. Add the same text file in your local repository.
+6. Change/add the text in line no 3 in your local github repo file.
+7. Use git add to add that file to the repository.
+8. Use git commit to commit your change. Use a meaningful message.
+9. Use git push to send your change to the github repository.
+IS it works? or you will get any error.
+10. If you will get the error how to resolve it?
